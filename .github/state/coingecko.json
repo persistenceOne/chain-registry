@@ -392,25 +392,6 @@
       }
     },
     {
-      "coingecko_id": "assetmantle",
-      "name": "AssetMantle",
-      "symbol": "MNTL",
-      "assets": [
-        {
-          "chain_name": "assetmantle",
-          "base_denom": "umntl"
-        },
-        {
-          "chain_name": "osmosis",
-          "base_denom": "ibc/CBA34207E969623D95D057D9B11B0C8B32B89A71F170577D982FDDE623813FFC"
-        }
-      ],
-      "origin_asset": {
-        "chain_name": "assetmantle",
-        "base_denom": "umntl"
-      }
-    },
-    {
       "coingecko_id": "atomone",
       "name": "AtomOne",
       "symbol": "ATONE",
@@ -437,6 +418,10 @@
         {
           "chain_name": "atomone",
           "base_denom": "uphoton"
+        },
+        {
+          "chain_name": "beezee",
+          "base_denom": "ibc/82931180F0962712BFABB189083A94C77EA90E269ABFC6D310AF922B2B14E011"
         }
       ],
       "origin_asset": {
@@ -1484,25 +1469,6 @@
       }
     },
     {
-      "coingecko_id": "cerberus-2",
-      "name": "Cerberus",
-      "symbol": "CRBRUS",
-      "assets": [
-        {
-          "chain_name": "cerberus",
-          "base_denom": "ucrbrus"
-        },
-        {
-          "chain_name": "osmosis",
-          "base_denom": "ibc/41999DF04D9441DAC0DF5D8291DF4333FBCBA810FFD63FDCE34FDF41EF37B6F7"
-        }
-      ],
-      "origin_asset": {
-        "chain_name": "cerberus",
-        "base_denom": "ucrbrus"
-      }
-    },
-    {
       "coingecko_id": "chain4energy",
       "name": "Chain4Energy",
       "symbol": "C4E",
@@ -1888,25 +1854,6 @@
       "origin_asset": {
         "chain_name": "desmos",
         "base_denom": "udsm"
-      }
-    },
-    {
-      "coingecko_id": "dhealth",
-      "name": "dHealth",
-      "symbol": "DHP",
-      "assets": [
-        {
-          "chain_name": "dhealth",
-          "base_denom": "udhp"
-        },
-        {
-          "chain_name": "osmosis",
-          "base_denom": "ibc/FD506CCA1FC574F2A8175FB574C981E9F6351E194AA48AC219BD67FF934E2F33"
-        }
-      ],
-      "origin_asset": {
-        "chain_name": "dhealth",
-        "base_denom": "udhp"
       }
     },
     {
@@ -2439,25 +2386,6 @@
       }
     },
     {
-      "coingecko_id": "hava-coin",
-      "name": "Hava Coin",
-      "symbol": "HAVA",
-      "assets": [
-        {
-          "chain_name": "injective",
-          "base_denom": "factory/inj1h0ypsdtjfcjynqu3m75z2zwwz5mmrj8rtk2g52/uhava"
-        },
-        {
-          "chain_name": "osmosis",
-          "base_denom": "ibc/884EBC228DFCE8F1304D917A712AA9611427A6C1ECC3179B2E91D7468FB091A2"
-        }
-      ],
-      "origin_asset": {
-        "chain_name": "injective",
-        "base_denom": "factory/inj1h0ypsdtjfcjynqu3m75z2zwwz5mmrj8rtk2g52/uhava"
-      }
-    },
-    {
       "coingecko_id": "astroport-fi",
       "name": "Astroport",
       "symbol": "ASTRO",
@@ -2742,25 +2670,6 @@
       }
     },
     {
-      "coingecko_id": "darcmatter-coin",
-      "name": "Konstellation",
-      "symbol": "DARC",
-      "assets": [
-        {
-          "chain_name": "konstellation",
-          "base_denom": "udarc"
-        },
-        {
-          "chain_name": "osmosis",
-          "base_denom": "ibc/346786EA82F41FE55FAD14BF69AD8BA9B36985406E43F3CB23E6C45A285A9593"
-        }
-      ],
-      "origin_asset": {
-        "chain_name": "konstellation",
-        "base_denom": "udarc"
-      }
-    },
-    {
       "coingecko_id": "aqualibre",
       "name": "Aqualibre",
       "symbol": "AQLA",
@@ -2836,21 +2745,6 @@
         "chain_name": "persistence",
         "base_denom": "stk/uatom"
       }
-    },
-    {
-      "coingecko_id": "nami-protocol",
-      "name": "NAMI Protocol",
-      "symbol": "NAMI",
-      "assets": [
-        {
-          "chain_name": "kujira",
-          "base_denom": "factory/kujira13x2l25mpkhwnwcwdzzd34cr8fyht9jlj7xu9g4uffe36g3fmln8qkvm3qn/unami"
-        },
-        {
-          "chain_name": "thorchain",
-          "base_denom": "thor.nami"
-        }
-      ]
     },
     {
       "coingecko_id": "kyve-network",
@@ -3041,25 +2935,6 @@
       }
     },
     {
-      "coingecko_id": "meme-network",
-      "name": "Meme Network",
-      "symbol": "MEME",
-      "assets": [
-        {
-          "chain_name": "meme",
-          "base_denom": "umeme"
-        },
-        {
-          "chain_name": "osmosis",
-          "base_denom": "ibc/67C89B8B0A70C08F093C909A4DD996DD10E0494C87E28FD9A551697BF173D4CA"
-        }
-      ],
-      "origin_asset": {
-        "chain_name": "meme",
-        "base_denom": "umeme"
-      }
-    },
-    {
       "coingecko_id": "white-whale",
       "name": "White Whale",
       "symbol": "WHALE",
@@ -3233,21 +3108,6 @@
       "origin_asset": {
         "chain_name": "neutron",
         "base_denom": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom"
-      }
-    },
-    {
-      "coingecko_id": "astrovault-xatom",
-      "name": "xATOM_Astrovault",
-      "symbol": "XATOM",
-      "assets": [
-        {
-          "chain_name": "neutron",
-          "base_denom": "cw20:neutron1vjl4ze7gr32lar5s4fj776v70j4ml7mlt4aqln2hwgfhqjck8xwqfhx8vj"
-        }
-      ],
-      "origin_asset": {
-        "chain_name": "neutron",
-        "base_denom": "cw20:neutron1vjl4ze7gr32lar5s4fj776v70j4ml7mlt4aqln2hwgfhqjck8xwqfhx8vj"
       }
     },
     {
@@ -3712,25 +3572,6 @@
       "origin_asset": {
         "chain_name": "umee",
         "base_denom": "uumee"
-      }
-    },
-    {
-      "coingecko_id": "sifchain",
-      "name": "Sifchain",
-      "symbol": "EROWAN",
-      "assets": [
-        {
-          "chain_name": "osmosis",
-          "base_denom": "ibc/8318FD63C42203D16DDCAF49FE10E8590669B3219A3E87676AC9DA50722687FB"
-        },
-        {
-          "chain_name": "sifchain",
-          "base_denom": "rowan"
-        }
-      ],
-      "origin_asset": {
-        "chain_name": "sifchain",
-        "base_denom": "rowan"
       }
     },
     {

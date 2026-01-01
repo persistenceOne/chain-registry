@@ -2399,7 +2399,6 @@
           "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/konstellation/images/darc.svg"
         }
       ],
-      "coingecko_id": "darcmatter-coin",
       "keywords": [
         "osmosis_unstable"
       ]
@@ -2704,7 +2703,6 @@
           "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cerberus/images/crbrus.svg"
         }
       ],
-      "coingecko_id": "cerberus-2",
       "keywords": [
         "osmosis_unstable"
       ]
@@ -2806,8 +2804,7 @@
           "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/assetmantle/images/mntl.png",
           "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/assetmantle/images/mntl.svg"
         }
-      ],
-      "coingecko_id": "assetmantle"
+      ]
     },
     {
       "description": "The native token cw20 for Neta on Juno Chain",
@@ -3070,8 +3067,7 @@
           "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sifchain/images/rowan.png",
           "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sifchain/images/rowan.svg"
         }
-      ],
-      "coingecko_id": "sifchain"
+      ]
     },
     {
       "description": "The native token of Shentu",
@@ -3810,8 +3806,7 @@
           "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/meme/images/meme.png",
           "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/meme/images/meme.svg"
         }
-      ],
-      "coingecko_id": "meme-network"
+      ]
     },
     {
       "description": "Profit sharing token for Another.Software validator. Hold and receive dividends from Another.Software validator commissions!",
@@ -15697,8 +15692,7 @@
             "circle": true
           }
         }
-      ],
-      "coingecko_id": "dhealth"
+      ]
     },
     {
       "description": "The native token of Furya",
@@ -16009,8 +16003,7 @@
           },
           "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/hava.png"
         }
-      ],
-      "coingecko_id": "hava-coin"
+      ]
     },
     {
       "description": "OnE mEmEcOiN tO cOnNeCt oL ImBeCiles - aNd in Da Cosmos BiNd DeM",
